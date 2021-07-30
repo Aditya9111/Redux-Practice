@@ -13,6 +13,5 @@ React Native with redux
 ## Screenshots
 
 ![screenshot 1](https://github.com/Aditya9111/Redux-Practice/blob/main/assets/1.png)
-
-
+![gif](https://github.com/Aditya9111/Redux-Practice/blob/main/assets/2.gif)
  
